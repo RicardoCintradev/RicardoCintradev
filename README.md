@@ -1,5 +1,5 @@
 <HELLO WORD> 
-me chamo Ricardo Cintra desenvolvedor web 
+olá , sou Ricardo Cintra desenvolvedor front end 
 curioso dedicado e com brilho nos olhos e foco nos meu objetivos 
 sejam bem vindos ao mundo dos codigos 
 
