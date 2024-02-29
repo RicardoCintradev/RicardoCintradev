@@ -32,13 +32,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RicardoCintradev/RicardoCintradev/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
-<div align="left">
-  <img src="https://https://br.linkedin.com/in/ricardo-fran%C3%A7a-cintra-b0b184176/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://www.instagram.com/ricardo.fcintra//profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
-###
