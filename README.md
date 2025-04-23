@@ -1,8 +1,8 @@
-<h1 align="left">OLÁ 👋 tudo bem ?</h1>
+<h1 align="left">Olá devs </h1>
 
 ###
 
-<p align="left">Meu nome é Ricardo  Cintra, sou desenvolvedor web.</p>
+<p align="left">Meu nome é Ricardo  Cintra, sou desenvolvedor .</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">foco e determinação<br>📚 estudando sempre <br>🎯 gosto ler e meditar <br>🎲fé</p>
+<p align="left">foco e determinação<br>📚 estudando sempre <br>🎯 entusiasta de IA  <br></p>
 
 ###
 
