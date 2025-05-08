@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">foco e determinação<br>📚 estudando sempre <br>🎯 entusiasta de IA  <br></p>
+<p align="left">foco e determinação<br>📚 curisoso  <br>🎯 entusiasta de IA  <br></p>
 
 ###
 
